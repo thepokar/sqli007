@@ -1,0 +1,4 @@
+requests[socks]
+bs4
+requests
+termcolor
