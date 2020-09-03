@@ -6,7 +6,7 @@
 <p><code>git clone https://github.com/ElPoker007/sqli007.git</code></p>
 
 <h4>To install</h4>
-
+<p><code>cd sqli007/</code></p>
 <p><code>python3 setup.py install;pip3 install -r requirements.txt</code></p>
 
 <p><code>OR</code></p>
