@@ -12,5 +12,5 @@
 <p><code>python3 setup.py install;pip install -r requirements.txt</code></p>
 
 
- <img src="https://github.com/ElPoker007/sqli007/blob/master/sqli007.PNG" alt="sqli007" width="300" height="1000"> 
+ <img src="https://github.com/ElPoker007/sqli007/blob/master/sqli007.PNG" alt="sqli007" width="800" height="300"> 
 
